@@ -1,5 +1,6 @@
 
 这是RabbitMQ-tutorial 的javascript版本的翻译
+
 RabbitMQ的tutorial本身就比较简单易懂，可能也没有起到什么作用呢。。
 
 ## 目录
